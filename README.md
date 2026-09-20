@@ -1,4 +1,8 @@
-# Aerix
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.png">
+  <img src="./assets/profile-banner-light.png" alt="Aerix — software, AI and developer tools" width="1120">
+</picture>
 
 <p align="center"><sub><em>
 I build to understand.<br />
@@ -12,9 +16,9 @@ I want to make useful things—and become a better developer in the process.
 
 ## Now
 
-**Founder of [Anyfacet](https://github.com/anyfacet)** — an umbrella for Novora and future software products.
+**Founder of [Anyfacet](https://github.com/anyfacet)** — an independent software company building AI tools for developers. Novora is our first product.
 
-**Creator of Novora** — a desktop workspace for AI-assisted development. Currently in development.
+**Creator of [Novora](https://novora.app)** — an AI coding workspace for turning ideas into working software. I’m building a desktop experience around projects, conversations, and AI agents. Currently in development.
 
 ## Working with
 
