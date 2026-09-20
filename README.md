@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.png">
-  <img src="./assets/profile-banner-light.png" alt="Aerix — software, AI and developer tools" width="1120">
-</picture>
+# Aerix
 
 <p align="center"><sub><em>
 I build to understand.<br />
